@@ -56,4 +56,29 @@ export const projects = [
     demo: "https://github.com/Ramos-Victor/Reso",
     github: "https://github.com/Ramos-Victor/Reso",
   },
+  {
+    id: 3,
+    category: "web",
+    image: projectTwo,
+    title: {
+      "pt-BR": "Portfólio Profissional",
+      "en-US": "Professional Portfolio",
+    },
+    description: {
+      "pt-BR":
+        "Site de portfólio desenvolvido com React e Vite, com suporte a PT-BR/EN-US, dark mode, animações com Framer Motion e layout responsivo.",
+      "en-US":
+        "Portfolio website built with React and Vite, featuring PT-BR/EN-US support, dark mode, Framer Motion animations and a responsive layout.",
+    },
+    tech: [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Lucide React",
+      "i18next",
+    ],
+    demo: "https://victorportfolio-ten.vercel.app/",
+    github: "https://github.com/Ramos-Victor/Portfolio",
+  },
 ];

@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
-import avatar from "../assets/avatar.svg";
+import heroVisual from "../assets/hero-visual.svg";
 import Button from "../components/Button";
 import AnimatedSection from "../components/AnimatedSection";
 
@@ -31,7 +31,12 @@ const HeroSection = () => {
           className="relative mx-auto max-w-sm"
         >
           <div className="absolute -inset-4 rounded-[2rem] bg-gradient-to-br from-brand-500/30 to-cyan-400/20 blur-2xl" />
-          <img src={avatar} alt="Developer portrait" className="relative w-full rounded-[2rem] border border-slate-200/60 dark:border-white/10 shadow-premium" />
+          <img
+            src={heroVisual}
+            alt=""
+            role="presentation"
+            className="relative w-full rounded-[2rem] border border-slate-200/60 dark:border-white/10 shadow-premium"
+          />
         </motion.div>
       </div>
     </AnimatedSection>
