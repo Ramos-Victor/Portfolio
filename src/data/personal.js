@@ -7,7 +7,7 @@ export const personalInfo = {
   email: "vm02oliveiraramos@gmail.com",
   github: "https://github.com/Ramos-Victor",
   linkedin: "https://www.linkedin.com/in/ramos-victordevjr/",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/VICTOR_ATS.pdf",
   location: {
     "pt-BR": "São José dos Campos, SP • Brasil",
     "en-US": "São José dos Campos, SP • Brazil",
