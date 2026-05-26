@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "experience": "Experiencia",
+    "contact": "Contato",
+    "resume": "Baixar Curriculo"
+  },
+  "hero": {
+    "badge": "API REST com Node.js + Express",
+    "title": "Eu construo aplicações web completas com foco em back-end.",
+    "subtitle": "Node.js, Express e Postgres para APIs REST + React/Vite no front. Projetos recentes com CRUD, autenticação JWT e interfaces responsivas.",
+    "ctaPrimary": "Ver Projetos",
+    "ctaSecondary": "Fale Comigo"
+  },
+  "about": {
+    "eyebrow": "Sobre Mim",
+    "title": "Back-end com Node.js e APIs bem estruturadas.",
+    "description": "Tenho experiência prática construindo API REST em Node.js/Express integrada ao Postgres (CRUD, autenticação JWT e rotas protegidas) e um sistema web completo (Help Desk) com controle de permissões, dashboard e chat."
+  },
+  "projects": {
+    "eyebrow": "Portfolio",
+    "title": "Projetos em destaque",
+    "description": "Selecao de trabalhos com foco em resultado, usabilidade e performance.",
+    "liveDemo": "Live Demo",
+    "filters": {
+      "all": "Todos",
+      "web": "Web",
+      "mobile": "Mobile",
+      "saas": "SaaS"
+    }
+  },
+  "experience": {
+    "eyebrow": "Carreira",
+    "title": "Experiência/Educação",
+    "description": "Historico dos estudos e experiências profissionais na area de técnologia."
+  },
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Vamos construir algo incrivel juntos.",
+    "description": "Se voce busca um desenvolvedor para elevar seu produto, vamos conversar.",
+    "copy": "Estou aberto para oportunidades remotas, consultorias e projetos de longo prazo."
+  },
+  "footer": {
+    "rights": "© 2026 Victor Ramos. Todos os direitos reservados.",
+    "quickHome": "Home",
+    "quickProjects": "Projetos",
+    "quickContact": "Contato"
+  }
+}
