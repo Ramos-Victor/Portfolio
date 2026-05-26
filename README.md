@@ -6,7 +6,7 @@ Este é um projeto de portfólio pessoal.
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repositorio>
+   git clone <https://github.com/Ramos-Victor/Portfolio.git>
    cd portifolio
    ```
 2. **Instale as dependências:**
